@@ -16,7 +16,7 @@ then add this to your project:
 
 ```php
 require __DIR__ . '/vendor/autoload.php';
-use Abosaber\DbWrapper\dbwrapper;
+use abosaber\DbWrapper\dbwrapper;
 $db = new dbhelper();
 ```
 

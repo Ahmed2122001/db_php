@@ -1,11 +1,11 @@
 {
-    "name": "Abosaber/db-wrapper",
+    "name": "abosaber/db-wrapper",
     "description": "php wrapper for mysql db",
     "type": "library",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Abosaber\\DbWrapper\\": "src/"
+            "abosaber\\DbWrapper\\": "src/"
         }
     },
     "authors": [

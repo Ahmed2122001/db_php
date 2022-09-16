@@ -1,5 +1,5 @@
 {
-    "name": "ahmed/db-wrapper",
+    "name": "Abosaber/db-wrapper",
     "description": "php wrapper for mysql db",
     "type": "library",
     "license": "MIT",

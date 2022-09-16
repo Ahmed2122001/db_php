@@ -1,6 +1,6 @@
 <?php
 
-namespace Ahmed\DbWrapper;
+namespace Abosaber\DbWrapper;
 
 class dbwrapper
 {
